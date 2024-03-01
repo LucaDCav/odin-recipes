@@ -1,0 +1,1 @@
+This is part of the introduction exercise of The Odin Project which we will put into practice all of the HTML knowledge I have acquired. In this project, I will be going to build a basic recipe website.
