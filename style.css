@@ -1,0 +1,28 @@
+body {
+    background-color: blueviolet;
+}
+
+.title {
+    font-size: 45px;
+    color: lightgreen;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.button {
+    height: 150px;
+    width: 150px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.3);
+    font-size: 25px;
+    /* background: black; */
+    background: linear-gradient(to right, #ff7e5f, #feb47b, #fafafa);
+    /* transition: background-color 0.3s ease; */
+}
+
+/* .button:hover {
+    background-color: #ff7e5f;
+} */
+
+.button i {
+    margin-right: 5px;
+}

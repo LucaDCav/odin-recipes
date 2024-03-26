@@ -1,0 +1,58 @@
+.cover {
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+    background-color: blue;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.img-container {
+    text-align: center;
+    background-color: orange;
+}
+
+.img-container img {
+    /* width: 100%; */
+    display: block;
+    margin: 0 auto;
+}
+
+h3 {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 0;
+}
+
+.time-table {
+    background-color: brown;
+    text-align: center;
+}
+
+.ingredients {
+    background-color: yellow;
+}
+
+.lil-container {
+    justify-content: center;
+    background-color: gray;
+    display: flex;
+}
+
+.diy {
+    margin-right: 10px;
+    background-color: lightgreen;
+}
+
+.layers {
+    margin-left: 10px;
+    background-color: purple;
+}
+
+.diy h2, .layers h2 {
+    text-align: center;
+}
